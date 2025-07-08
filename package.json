@@ -1,11 +1,1 @@
-
-{
-  "name": "sofeia-ai",
-  "scripts": {
-    "dev": "concurrently \"npm --prefix client run dev\" \"npm --prefix server run dev\"",
-    "install": "cd client && npm install && cd ../server && npm install"
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.0"
-  }
-}
+{ "name": "sofeia-ai", "version": "1.0.0" }

@@ -1,2 +1,2 @@
-# Sofeia AI for Replit
-Follow README to run this project.
+# Sofeia AI
+Outrank anyone, on any topic.
